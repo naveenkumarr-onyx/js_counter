@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: monospace;
+}
+.container{
+    background-color:skyblue;
+    margin-top: 20px !important;
+    padding: 10px;
+    border: 5px solid black;
+}
+.head{
+   text-transform: uppercase;
+}
+#incre,#Decrement,#Neutral{
+    margin: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 10%;
+}
